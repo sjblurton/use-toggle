@@ -20,22 +20,6 @@ useToggle will default to false on initialization, unless provided a initial boo
 
 <br/>
 
-## Commands
-
-to see an example of it working, clone from the git repo and...
-
-```bash
-cd example
-npm i # or yarn to install dependencies
-npm start # or yarn start
-```
-
-To run tests from the root directory...
-
-```bash
-npm test # or yarn test
-```
-
 ### **Links**
 
 GitHub: https://github.com/sjblurton/use-timeout
