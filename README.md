@@ -35,3 +35,9 @@ To run tests from the root directory...
 ```bash
 npm test # or yarn test
 ```
+
+### **Links**
+
+GitHub: https://github.com/sjblurton/use-timeout
+<br/>
+NPM: https://www.npmjs.com/package/@sjblurton/use-toggle
